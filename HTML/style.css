@@ -1,0 +1,9 @@
+a, span, strong {
+    color: green;
+    border: 1px solid rgba(0,0,0,0.5)
+    
+    
+}
+h1, div, p{
+    border: 1px solid rgba(0,0,0,0.5);
+}
